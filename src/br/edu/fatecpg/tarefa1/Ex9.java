@@ -24,7 +24,7 @@ public class Ex9 {
                 nomeIgual = true;
             }
         }
-        if (nomeIgual) {
+        if (nomeIgual = true) {
             System.out.println("Há um nome igual na lista!");
 
         } else {

@@ -14,9 +14,9 @@ public class Ex2 {
         if(num1 == num2){
             System.out.println("Números Iguais");
         } else if(num1 > num2){
-            System.out.println("Números Diferentes - O 1º é maior");
+            System.out.println("Números Diferentes - 1º é maior");
         } else if(num1 < num2) {
-            System.out.println("Números Diferentes - O 2º é maior");
+            System.out.println("Números Diferentes - 2º é maior");
         }
     }
 }

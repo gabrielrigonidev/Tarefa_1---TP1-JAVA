@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Digite um número inteiro n: ");
+        System.out.print("Digite um Número: ");
         int num = scanner.nextInt();
 
         int soma = 0;
@@ -16,7 +16,7 @@ public class Ex8 {
             numeroImpar = numeroImpar + 2;
         }
 
-        System.out.println("A soma dos primeiros " + num + " números ímpares é: " + soma);
+        System.out.println("Soma dos primeiros " + num + " números ímpares: " + soma);
         scanner.close();
     }
 }

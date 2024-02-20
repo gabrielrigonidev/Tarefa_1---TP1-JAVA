@@ -10,8 +10,10 @@ public class Ex1 {
         num = ler.nextDouble();
         if(num > 0){
             System.out.println("Número Positivo");
-        } else {
+        } else if (num < 0) {
             System.out.println("Número Negativo");
+        } else {
+            System.out.println("Nulo");
         }
     }
 }

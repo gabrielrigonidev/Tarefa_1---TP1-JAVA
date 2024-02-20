@@ -11,7 +11,7 @@ public class Ex7 {
 
         if(num < 18){
             System.out.println("Você é Menor de idade!");
-        } else if (num <= 59) {
+        } else if (num < 60) {
             System.out.println("Você é Adulto!");
         } else {
             System.out.println("Você é Idoso!");
