@@ -1,8 +1,8 @@
-package br.edu.fatecpg.tarefa1.Ex7;
+package br.edu.fatecpg.tarefa1;
 
 import java.util.Scanner;
 
-public class ex7 {
+public class Ex7 {
     public static void main(String[] args) {
         int num;
         Scanner ler = new Scanner(System.in);

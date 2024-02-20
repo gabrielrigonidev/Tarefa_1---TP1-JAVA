@@ -1,8 +1,8 @@
-package br.edu.fatecpg.tarefa1.Ex9;
+package br.edu.fatecpg.tarefa1;
 
 import java.util.Scanner;
 
-public class ex9 {
+public class Ex9 {
     public static void main(String[] args) {
         String[] nomes = new String[5];
         String nome2;

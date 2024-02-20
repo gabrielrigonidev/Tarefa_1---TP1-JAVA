@@ -1,4 +1,4 @@
-package br.edu.fatecpg.tarefa1.ex1;
+package br.edu.fatecpg.tarefa1;
 
 import java.util.Scanner;
 

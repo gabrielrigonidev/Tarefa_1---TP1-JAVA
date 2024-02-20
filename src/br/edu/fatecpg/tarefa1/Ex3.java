@@ -1,4 +1,4 @@
-package br.edu.fatecpg.tarefa1.ex3;
+package br.edu.fatecpg.tarefa1;
 import java.util.Scanner;
 public class Ex3 {
     public static final double PI = 3.14;

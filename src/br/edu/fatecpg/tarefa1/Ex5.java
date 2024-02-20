@@ -1,4 +1,4 @@
-package br.edu.fatecpg.tarefa1.ex5;
+package br.edu.fatecpg.tarefa1;
 import java.util.Scanner;
 public class Ex5 {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
-package br.edu.fatecpg.tarefa1.Ex10;
+package br.edu.fatecpg.tarefa1;
 import java.util.Scanner;
 
-public class ex10 {
+public class Ex10 {
     public static void main(String[] args) {
         String senhaSecreta = "Java123";
         String tentativaSenha;
